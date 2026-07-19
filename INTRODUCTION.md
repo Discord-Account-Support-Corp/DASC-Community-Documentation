@@ -1,5 +1,5 @@
-# Welcome To The DASC&copy; Public Knowledge Base 
-This Is The Public DASC&copy; Knowledge Base This Is A Draft Intro
-# Section Notice
->[!CAUTION]
->This Page Is A Work In Progress
+>[!NOTE]
+>***This Page Is Not An Official DASC© Policy Or An Official DASC© Guideline***
+# Welcome To The Community Support Wiki
+```diff
+- Welcome To The Official DASC© Community Support Wiki A Community Support Wiki For All DASC© Related Help
